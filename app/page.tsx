@@ -3,7 +3,7 @@ import Header from "./components/header";
 import { Rocket, Podcast, HandHelping, SearchCheck } from "lucide-react";
 import { IconText } from "./components/iconText";
 import Footer from "./components/footer";
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Component() {
   const features = [
