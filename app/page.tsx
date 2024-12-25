@@ -57,14 +57,14 @@ export default function Component() {
               </Button>
             </div>
             <div className="mt-8 md:mt-0">
-              <Image
+              {/* <Image
                 className="rounded-md w-full h-auto object-cover mb-8 "
                 src="/images/worker.jpg"
                 alt="An example image"
                 width={500}
                 height={300}
                 layout="responsive"
-              />
+              /> */}
             </div>
           </div>
         </div>
